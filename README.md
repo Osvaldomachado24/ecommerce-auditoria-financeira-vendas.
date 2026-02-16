@@ -1,4 +1,5 @@
 # Projeto: Auditoria de E-commerce - Engenharia e Análise de Dados para Recuperação de Margem 🛠️📊
+![Painel E-commerce](./04_Imagem/e-commerce.PNG)
 
 ## 📌 Visão Geral
 Este projeto demonstra uma solução completa de dados (End-to-End), abrangendo desde a estruturação da base de dados até o diagnóstico estratégico de negócio. 
